@@ -1,6 +1,4 @@
-# assignment-xor
-
-*Estimated Completion Time* 10 min
+# xor-verificatio-using-cocotb
 
 This assignment is not complex. It follows the same concepts as discussed in https://youtu.be/AcLHSpvPaRQ 
 
